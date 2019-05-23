@@ -1,0 +1,17 @@
+{
+    "name": "klepak/console-progress-bar",
+    "description": "Class to output a progress bar with various options.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Knut Leborg",
+            "email": "knut@lepa.no"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Klepak\\ConsoleProgressBar\\": "src/"
+        }
+    }
+}
