@@ -1,6 +1,6 @@
 {
     "name": "klepak/console-progress-bar",
-    "description": "Class to output a progress bar with various options.",
+    "description": "Class to output a console progress bar with various options.",
     "type": "library",
     "authors": [
         {
